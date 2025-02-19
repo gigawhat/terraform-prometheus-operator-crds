@@ -2,7 +2,7 @@
 
 set -eux
 
-REPO_TAG="0.80.0"
+REPO_TAG="0.80.1"
 REPO_NAME="prometheus-operator"
 REPO_URL=https://github.com/prometheus-operator/${REPO_NAME}.git
 TMP_DIR=$(mktemp -d)
