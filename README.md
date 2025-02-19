@@ -7,6 +7,6 @@ Terraform module to deploy Prometheus Operator CRDs.
 
 ```hcl
 module "prometheus_operator_crds" {
-  source = "github.com/claranet/terraform-prometheus-operator-crds?ref=v0.80.0"
+  source = "github.com/gigawhat/terraform-prometheus-operator-crds?ref=v0.80.0"
 }
 ```
